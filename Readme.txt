@@ -12,16 +12,14 @@ C#.Net及びWPFを用いた電卓アプリケーションです。
 【１】直接EXEファイルをダブルクリックで実行する方法
 Windows上にcsharpTechnicalTest配下のファイル群一式をダウンロードした後、
 下記ファイルをダブルクリックし、電卓アプリケーションを起動して下さい。
-csharpTechnicalTest/bin/Release/net8.0-windows/csharpTechnicalTest.exe
+ csharpTechnicalTest/bin/Release/net8.0-windows/csharpTechnicalTest.exe
 
 【２】ソースコードをビルドした後、起動する方法
 Windows上にcsharpTechnicalTest配下のファイル群一式をダウンロードした後、
 Visual Studio 2026を起動して下さい。
-
 「ファイル」→「開く」→「プロジェクト／ソリューション」を選択後、
 下記プロジェクトファイルを選択し、開いて下さい。
-csharpTechnicalTest/csharpTechnicalTest.csproj
-
+ csharpTechnicalTest/csharpTechnicalTest.csproj
 Visual Studio 画面上部の再生ボタンをクリックし、
 電卓アプリケーションを起動して下さい。
 
